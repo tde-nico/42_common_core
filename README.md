@@ -18,7 +18,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2454018" />
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -28,7 +28,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2464472" />
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -38,17 +38,17 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2464469" />
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
 		2
 	</td><td>
-		Born2beroot
+		<a href="https://github.com/tde-nico/Born2beroot">Born2beroot</a>
 	</td><td>
 		</br>
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2464468" />
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -58,7 +58,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2492446" />
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -68,7 +68,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2492447" />
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -78,7 +78,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2492448" />
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -88,7 +88,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2504251" />
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -98,7 +98,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2535259" />
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -108,7 +108,7 @@
 	</td><td>
 		C++
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2600190" />
+		<img src="grades/100_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -118,7 +118,7 @@
 	</td><td>
 		C++
 	</td><td>
-		</br>
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -188,7 +188,7 @@
 	</td><td>
 		C++
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2502594" />
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -271,7 +271,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2503116" />
+		<img src="grades/100_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -281,7 +281,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="https://badge42.vercel.app/api/v2/cl3lgho45001109mpqdw212jx/project/2535260" />
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr><tr>
 	<td>
