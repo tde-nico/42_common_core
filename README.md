@@ -267,7 +267,7 @@
 	<td>
 		3
 	</td><td>
-		Exam Rank 02
+		<a href="https://github.com/tde-nico/42_Exams">Exam Rank 02</a>
 	</td><td>
 		C
 	</td><td>
@@ -277,7 +277,7 @@
 	<td>
 		4
 	</td><td>
-		Exam Rank 03
+		<a href="https://github.com/tde-nico/42_Exams">Exam Rank 03</a>
 	</td><td>
 		C
 	</td><td>
@@ -287,7 +287,7 @@
 	<td>
 		5
 	</td><td>
-		Exam Rank 04
+		<a href="https://github.com/tde-nico/42_Exams">Exam Rank 04</a>
 	</td><td>
 		C
 	</td><td>
@@ -297,7 +297,7 @@
 	<td>
 		6
 	</td><td>
-		Exam Rank 05
+		<a href="https://github.com/tde-nico/42_Exams">Exam Rank 05</a>
 	</td><td>
 		</br>
 	</td><td>
@@ -307,7 +307,7 @@
 	<td>
 		7
 	</td><td>
-		Exam Rank 06
+		<a href="https://github.com/tde-nico/42_Exams">Exam Rank 06</a>
 	</td><td>
 		</br>
 	</td><td>
