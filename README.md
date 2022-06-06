@@ -314,3 +314,10 @@
 		</br>
 	</td>
 </tr></table>
+
+
+# Note
+having trouble with memory? try this:
+```
+rm -rf ~/Library/Caches && rm -rf ~/Library/Application\ Support/Code/Cache rm -rf ~/Library/Application\ Support/Code/User/workspaceStorage
+```
