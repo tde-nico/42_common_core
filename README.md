@@ -2,6 +2,12 @@
 
 <table border=3 align="center"><tr>
 	<td>
+		<a href="https://github.com/tde-nico/Piscine">Piscine</a>
+	</td>
+</tr></table>
+
+<table border=3 align="center"><tr>
+	<td>
 		Circle
 	</td><td>
 		Project
