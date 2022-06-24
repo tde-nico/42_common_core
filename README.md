@@ -322,8 +322,18 @@
 </tr></table>
 
 
-# Note
+## Helpful Commands
 having trouble with memory? try this:
 ```
 rm -rf ~/Library/Caches && rm -rf ~/Library/Application\ Support/Code/Cache rm -rf ~/Library/Application\ Support/Code/User/workspaceStorage
+```
+have to install something? try installing home brew:
+```
+rm -rf $HOME/.brew && git clone --depth=1 https://github.com/Homebrew/brew $HOME/.brew && echo 'export PATH=$HOME/.brew/bin:$PATH' >> $HOME/.zshrc && source $HOME/.zshrc
+```
+```
+brew update
+```
+```
+brew install "the thing you want install"
 ```
