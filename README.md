@@ -174,7 +174,7 @@
 	</td><td>
 		C++
 	</td><td>
-		<img src="grades/Subscribed.svg"/>
+		<img src="grades/100_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -184,7 +184,7 @@
 	</td><td>
 		C++
 	</td><td>
-		</br>
+		<img src="grades/100_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
