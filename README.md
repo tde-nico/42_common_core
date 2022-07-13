@@ -210,7 +210,7 @@
 	<td>
 		5
 	</td><td>
-		cube3d
+		<a href="https://github.com/tde-nico/cube3D">cube3D</a>
 	</td><td>
 		C
 	</td><td>
@@ -220,7 +220,7 @@
 	<td>
 		6
 	</td><td>
-		ft_containers
+		<a href="https://github.com/tde-nico/ft_containers">ft_containers</a>
 	</td><td>
 		C++
 	</td><td>
