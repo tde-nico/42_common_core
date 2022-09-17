@@ -1,5 +1,16 @@
 # 42_common_core
 
+<!--
+#groups
+42
+
+#languages
+
+#frames and libs
+
+-->
+
+
 <table border=3 align="center"><tr>
 	<td>
 		<a href="https://github.com/tde-nico/Piscine">Piscine</a>
