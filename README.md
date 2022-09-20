@@ -215,7 +215,7 @@
 	</td><td>
 		</br>
 	</td><td>
-		</br>
+		<img src="grades/100_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -225,7 +225,7 @@
 	</td><td>
 		C
 	</td><td>
-		</br>
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -298,7 +298,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="grades/Subscribed.svg"/>
+		<img src="grades/100_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -308,7 +308,7 @@
 	</td><td>
 		C
 	</td><td>
-		</br>
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -336,7 +336,7 @@
 ## Helpful Commands
 having trouble with memory? try this:
 ```
-rm -rf ~/Library/Caches && rm -rf ~/Library/Application\ Support/Code/Cache rm -rf ~/Library/Application\ Support/Code/User/workspaceStorage
+rm -rf ~/Library/Caches && rm -rf ~/Library/Application\ Support/Code/Cache && rm -rf ~/Library/Application\ Support/Code/User/workspaceStorage
 ```
 have to install something? try installing home brew:
 ```
