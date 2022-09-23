@@ -225,7 +225,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="grades/Subscribed.svg"/>
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -235,7 +235,7 @@
 	</td><td>
 		C++
 	</td><td>
-		</br>
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -245,7 +245,7 @@
 	</td><td>
 		</br>
 	</td><td>
-		</br>
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -255,7 +255,7 @@
 	</td><td>
 		C++
 	</td><td>
-		</br>
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -308,7 +308,7 @@
 	</td><td>
 		C
 	</td><td>
-		<img src="grades/Subscribed.svg"/>
+		<img src="grades/100_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -316,9 +316,9 @@
 	</td><td>
 		<a href="https://github.com/tde-nico/42_Exams">Exam Rank 05</a>
 	</td><td>
-		</br>
+		C++
 	</td><td>
-		</br>
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr><tr>
 	<td>
