@@ -235,13 +235,13 @@
 	</td><td>
 		C++
 	</td><td>
-		<img src="grades/Subscribed.svg"/>
+		<img src="grades/125_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
 		6
 	</td><td>
-		Inception
+		<a href="https://github.com/tde-nico/Inception">Inception</a>
 	</td><td>
 		</br>
 	</td><td>
