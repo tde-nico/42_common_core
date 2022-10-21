@@ -318,7 +318,7 @@
 	</td><td>
 		C++
 	</td><td>
-		<img src="grades/Subscribed.svg"/>
+		<img src="grades/100_100.svg"/>
 	</td>
 </tr><tr>
 	<td>
@@ -326,7 +326,7 @@
 	</td><td>
 		<a href="https://github.com/tde-nico/42_Exams">Exam Rank 06</a>
 	</td><td>
-		</br>
+		C
 	</td><td>
 		</br>
 	</td>
