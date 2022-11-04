@@ -251,7 +251,7 @@
 	<td>
 		6
 	</td><td>
-		ft_irc
+		<a href="https://github.com/tde-nico/ft_irc">ft_irc</a>
 	</td><td>
 		C++
 	</td><td>
