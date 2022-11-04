@@ -4,12 +4,12 @@
 
 
 all:
+	@df -h | grep /Users/tde-nico | grep -ioE '[0-9]\.[0-9]' | awk 'NR%2!=1'
 	@find . -name "._*" -delete
 	@find . -name "._DS_Store" -delete
-
-
-clean: all
-	@rm -rf ~/Library/Caches && rm -rf ~/Library/Application\ Support/Code/Cache && rm -rf ~/Library/Application\ Support/Code/User/workspaceStorage
+	@rm -rf ~/Library/Caches && \
+		rm -rf ~/Library/Application\ Support/Code/Cache && \
+		rm -rf ~/Library/Application\ Support/Code/User/workspaceStorage
+	@df -h | grep /Users/tde-nico | grep -ioE '[0-9]\.[0-9]' | awk 'NR%2!=1'
 
 .Phony: all
-
