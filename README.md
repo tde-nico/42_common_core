@@ -328,7 +328,7 @@
 	</td><td>
 		C
 	</td><td>
-		</br>
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr></table>
 
