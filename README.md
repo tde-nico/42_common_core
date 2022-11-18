@@ -265,7 +265,7 @@
 	</td><td>
 		NestJS, TypeScript
 	</td><td>
-		</br>
+		<img src="grades/Subscribed.svg"/>
 	</td>
 </tr></table>
 
