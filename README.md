@@ -263,7 +263,7 @@
 	</td><td>
 		ft_transcendence
 	</td><td>
-		NestJS, TypeScript
+		Vuejs, NestJS, TypeScript
 	</td><td>
 		<img src="grades/Subscribed.svg"/>
 	</td>
