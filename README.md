@@ -261,7 +261,7 @@
 	<td>
 		7
 	</td><td>
-		ft_transcendence
+		<a href="https://github.com/tde-nico/ft_transcendence">ft_transcendence</a>
 	</td><td>
 		Vuejs, NestJS, TypeScript
 	</td><td>
