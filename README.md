@@ -263,9 +263,9 @@
 	</td><td>
 		<a href="https://github.com/tde-nico/ft_transcendence">ft_transcendence</a>
 	</td><td>
-		Vuejs, NestJS, TypeScript
+		TypeScript, NestJS, React
 	</td><td>
-		<img src="grades/Subscribed.svg"/>
+		<img src="grades/100_100.svg"/>
 	</td>
 </tr></table>
 
